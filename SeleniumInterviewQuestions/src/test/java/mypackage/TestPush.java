@@ -6,6 +6,7 @@ public class TestPush {
 
 
 		//lets push it
+		System.out.println("DONE");
 	}
 
 }
